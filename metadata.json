@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Pet — Pet Shop, Banho e Tosa",
+  "description": "Site profissional e moderno para o pet shop Cloud Pet com serviços de banho e tosa, produtos de alta qualidade e atendimento humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
